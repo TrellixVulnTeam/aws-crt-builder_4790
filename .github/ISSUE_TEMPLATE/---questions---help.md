@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 Confirm by changing [ ] to [x] below:
-- [ ] I've searched for [previous similar issues](https://github.com/awslabs/ /issues) and didn't find any solution
+- [ ] I've searched for [previous similar issues](https://github.com/awslabs/aws-crt-builder/issues) and didn't find any solution
 
 **Platform/OS/Device**
 What are you running the sdk on?
